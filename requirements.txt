@@ -1,0 +1,6 @@
+# Copie de « Resultats/Défi 2 - Les mobilités et l’emploi/defi-2_equipe-18/production/application/requirements.txt » pour Streamlit Cloud (branche de déploiement seulement).
+# Le chemin d'origine contient des espaces : Streamlit Cloud le coupe à l'installation (« Failed to parse: `-` »).
+# À garder identique à l'original (vérifié par une comparaison avant chaque report de dev).
+streamlit==1.67.0
+altair==6.3.0
+pandas==3.1.0
